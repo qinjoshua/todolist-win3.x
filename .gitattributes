@@ -1,2 +1,2 @@
-*.html linguist-detectable=false
+*.mak linguist-detectable=false
 *.frm linguist-language=visual-basic
