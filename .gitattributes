@@ -1,2 +1,3 @@
 *.mak linguist-detectable=false
-*.frm linguist-language=visual-basic
+*.frm linguist-language=VBA
+*.bas linguist-language=VBA
