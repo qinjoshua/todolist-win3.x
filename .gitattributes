@@ -1,3 +1,3 @@
-*.mak linguist-language=VBA
-*.frm linguist-language=VBA
-*.bas linguist-language=VBA
+*.mak linguist-language=visual-basic
+*.frm linguist-language=visual-basic
+*.bas linguist-language=visual-basic
